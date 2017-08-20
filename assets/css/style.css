@@ -1,0 +1,94 @@
+body{
+	margin: auto;
+	color: #303539;
+	width: 960px;
+	background-image: url("../images/blk.jpg");
+	background-repeat: repeat;
+	min-height: 100%;
+	margin-top: 30px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	
+}
+aside{
+	width: 270px;
+	background-color: #0a0a0a;
+	float: right;
+	margin-top: 100px;
+}
+.main_content{
+	width: 650px;
+}
+.main_content img{
+	float: left;
+}
+.main_content p{
+	margin-right: 46px;
+	color: darkgrey;
+
+}
+
+header{
+	font-size: 50px;
+	color: #841542;
+	
+	float: left;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+nav{
+	float: right;
+}
+nav ul li{
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-size: 30px;
+}
+section{
+	background-color: #0a0a0a;
+	margin-top: 100px;
+	float: left;
+	padding-left: 18px;
+	padding-bottom: 20px;
+	padding-top: 36px;
+	margin-bottom: 10px;
+	
+}
+section h1{
+	font-size: 38px;
+	margin-bottom: 36px;
+	color: darkgrey;
+}
+
+section img{
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.content{
+	margin-top: 50px;
+
+}
+aside h2{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px;
+}
+.imgs{
+	width: 163px;
+	margin: auto;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+footer{
+	background-color: #0a0a0a;
+	clear: both;
+	color: white;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 60px;
+	text-align: center;
+}
+footer p{
+	margin-top: 25px;
+}
