@@ -120,3 +120,35 @@ section p{
 nav ul li a:hover{
 	color: #606671; 
 }
+section input{
+	display: block;
+	height: 30px;
+	margin-top: 6px;
+	margin-bottom: 10px;
+}
+textarea{
+	display: block;
+	margin-top: 6px;
+}
+.submit{
+	width: 100px;
+	height: 40px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	color: white;
+	background-color: #3a5ba0;
+	font-size: 120%;
+	border-color: #3a5ba0;
+}
+section label{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	font-size: 120%;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	color: #faeee0;
+}
+form{
+	margin-left: 40px;
+}
+.field{
+	margin-bottom: 20px;
+}
